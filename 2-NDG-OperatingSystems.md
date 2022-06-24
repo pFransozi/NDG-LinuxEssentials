@@ -1,26 +1,6 @@
 # NDG Linux Essentials
 
-## Chapter 2
-
-1.1 : Linux Evolution and Popular Operating Systems
-Weight: 2
-Knowledge of Linux development and major distributions.
-
-* Key Knowledge Areas:
-    * Distributions: Section 2.4
-    * Embedded Systems: Section 2.4.2
-
-4.1: Choosing an Operating System
-Weight: 1
-Knowledge of major operating systems and Linux distributions.
-
-*Key Knowledge Areas:
-    * Differences between Windows, OS X and Linux: Section 2.2 | Section 2.3 | Section 2.4
-    * GUI versus command line: Section 2.4
-    * Distribution life cycle management: Section 2.4
-
-
-### 2.1 Operating Systems
+## 2.1 Operating Systems
 
 * OS is software that **runs on a computing device** and **manages the hardware and software components that make up a functional computing system**, even though modern OS **don’t just manage hardware and software resources**, **they schedule programs to run in a multi-tasking manner** **(sharing the processor so that multiple tasks can occur apparently simultaneously)**, **provide standard services** that allow users and programs to request something happen (for example **a print job**) from the operating system, and provided it’s properly requested, the operating system will accept the request and perform the function needed.
 
